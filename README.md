@@ -88,8 +88,8 @@ https://dhruvpandit46.github.io/DDCET/
 ```
 DDCET/
 │
-├── index.html      → Entire app (UI + logic + question bank)
-├── images/          → Screenshots
+├── index.html      
+├── images/          
 └── README.md
 ```
 
