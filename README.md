@@ -69,7 +69,7 @@
 
 # 🚀 Live Demo
 
-dhruvpandit46.github.io/DDCET/
+https://dhruvpandit46.github.io/DDCET/
 
 ---
 
