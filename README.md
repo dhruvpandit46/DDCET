@@ -186,7 +186,7 @@ GitHub — https://github.com/dhruvpandit46
 
 LinkedIn — https://linkedin.com/in/dhruv-pandit-755786326
 
-Instagram — https://instagram.com/dhruv_pandit20
+Instagram — https://instagram.com/dhruv_pandit2007
 
 ---
 
